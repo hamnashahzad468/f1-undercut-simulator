@@ -41,4 +41,4 @@ The undercut is one of the most decisive strategic tools in Formula 1. This proj
 
 ## Author
 
-Hamna Shahzad — BS Electrical Engineering, International Islamic University Islamabad
+Hamna Shahzad — BS Electrical Engineering Student
